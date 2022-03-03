@@ -1,0 +1,65 @@
+[
+	{
+		"id":1,
+		"name":"이상혁",
+		"age":26,
+		"address":"서울시 서초구 양재동 OO물산 307-12 양재로 111",
+		"gender":"Male",
+		"job":"Progammer",
+		"hobby":"책보기"
+	},
+	{
+		"id":2,
+		"name":"김종인",
+		"age":28,
+		"address":"서울시 서초구 양재동 OO물산 307-12 양재로 111",
+		"gender":"Male",
+		"job":"Archer",
+		"hobby":"게임하기"
+	},
+	{
+		"id":3,
+		"name":"배준식",
+		"age":28,
+		"address":"서울시 서초구 양재동 OO물산 307-12 양재로 111",
+		"gender":"Male",
+		"job":"Programmer",
+		"hobby":"캠핑가기"
+	},
+	{
+		"id":4,
+		"name":"이현우",
+		"age":33,
+		"address":"서울시 서초구 양재동 OO물산 307-12 양재로 111",
+		"gender":"Male",
+		"job":"Gabber",
+		"hobby":"해설하기"
+	},
+	{
+		"id":5,
+		"name":"홍민기",
+		"age":29,
+		"address":"서울시 서초구 양재동 OO물산 307-12 양재로 111",
+		"gender":"Male",
+		"job":"Programmer",
+		"hobby":"운전하기"
+	},
+	{
+		"id":6,
+		"name":"장용준",
+		"age":24,
+		"address":"서울시 서초구 양재동 OO물산 307-12 양재로 111",
+		"gender":"Male",
+		"job":"WebDesigner",
+		"hobby":"마라톤"
+	},
+	{
+		"id":7,
+		"name":"박옥자",
+		"age":25,
+		"address":"서울시 서초구 양재동 OO물산 307-12 양재로 111",
+		"gender":"Female",
+		"job":"Programmer",
+		"hobby":"개그"
+	}
+]
